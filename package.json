@@ -4,7 +4,7 @@
   "main": "index.js",
   "name": "g-shop",
   "version": "1.2.0",
-  "homepage": "https://evan-gyy.github.io/g-shop/",
+  "homepage": "https://resrora.github.io/third_homework/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
